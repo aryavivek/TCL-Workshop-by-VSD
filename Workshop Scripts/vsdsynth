@@ -35,7 +35,7 @@ if (! -f $argv[1] || $argv[1] == "-help") then
                 echo
                 echo        \<Constraints file\> is the csv file path of constraints to be used For STA
                 echo
-                echo        "Exiting.."
+                echo        "Exiting."
 
                 exit 1
 
