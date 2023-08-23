@@ -14,10 +14,15 @@ OpenTimer
 TCL development suite
 Libraries (associated with TCL)
 
-Day 1
+Day-1
 Task1: User doesn't provide an input CSV file
 Input:
 Output:
 Task2/3: User providing incorrect CSV or typing "-help"
 Input:
 Output:
+
+Day-2
+Task1: Variable Creation
+Task2: Checking the existence of files and folders mentioned in design_details.csv
+Task3:  Compute row number using complex matrix processing
