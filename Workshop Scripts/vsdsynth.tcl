@@ -121,8 +121,8 @@ set output_ports_start [lindex [lindex [constraints search all OUTPUTS] 0] 1]
 
 #puts "\nclock_start_rows = $clock_start"
 #puts "\nclock_start_column = $clock_start_column"
-#puts "\ninput_port_start = $input_start"
-#puts "\noutput_port_start = $output_start"
+#puts "\ninput_port_start = $input_ports_start"
+#puts "\noutput_port_start = $output_ports_start"
 
 #........................................................................#
 #...........................Clock Constraints............................#
