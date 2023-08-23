@@ -18,11 +18,11 @@
 
 ## Day-1
 - Task1: User doesn't provide an input CSV file
-   - Input:![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/TCL-Workshop1-2048x1448.jpg?raw=true)
-   - Output:![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/TCL-Workshop1-2048x1448.jpg?raw=true)
+   - Input:![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20113033.png?raw=true)
+   - Output:![image]()
 - Task2/3: User providing incorrect CSV or typing "-help"
-   - Input:
-   - Output:
+   - Input: ![image]()
+   - Output: ![image]()
 
 ## Day-2
 - Task1: Variable Creation
