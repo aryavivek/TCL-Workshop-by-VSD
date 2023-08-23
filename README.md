@@ -21,7 +21,7 @@
    - Input:![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20113033.png?raw=true)
    - Output:![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20220231.png?raw=true)
 - Task2/3: User providing incorrect CSV or typing "-help"
-   - Input: ![image]()
+   - Input: ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20220811.png?raw=true)
    - Output: ![image]()
 
 ## Day-2
