@@ -13,3 +13,11 @@ Yosys
 OpenTimer
 TCL development suite
 Libraries (associated with TCL)
+
+Day 1
+Task1: User doesn't provide an input CSV file
+Input:
+Output:
+Task2/3: User providing incorrect CSV or typing "-help"
+Input:
+Output:
