@@ -22,7 +22,7 @@
    - Output:![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20220231.png?raw=true)
 - Task2/3: User providing incorrect CSV or typing "-help"
    - Input: ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20220811.png?raw=true)
-   - Output: ![image]()
+   - Output: ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day%201/Screenshot%202023-08-23%20220539.png?raw=true)
 
 ## Day-2
 - Task1: Variable Creation
