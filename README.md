@@ -7,3 +7,9 @@ Day 2: Variable Creation and Processing Constraints from CSV
 Day 3: Processing Clock and Input Constraints
 Day 4: Complete Scripting and Yosys Synthesis Introduction
 Day 5: Advanced Scripting Techniques and Quality of Results Generation
+
+Tools Used:
+Yosys
+OpenTimer
+TCL development suite
+Libraries (associated with TCL)
