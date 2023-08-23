@@ -26,6 +26,10 @@
 
 ## Day-2
 - Task1: Variable Creation
+ ![image]()
 - Task2: Checking the existence of files and folders mentioned in design_details.csv
+ ![image]()
 - Task3: Script thrown an error if wrong path was provided
-- Task4: Compute row number using complex matrix processing
+ ![image]()
+- Task4: Compute row and column number using complex matrix processing
+ ![image]()
