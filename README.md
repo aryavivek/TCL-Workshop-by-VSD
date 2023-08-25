@@ -115,6 +115,6 @@
      
      ![image]()
      
-   - Snapshot of final.synth.v vs synth.v
+   - Screenshot of final.synth.v VS synth.v
      
      ![image]()
