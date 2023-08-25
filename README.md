@@ -79,3 +79,22 @@
   - Generated SDC File with Ouput Constraints
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/output%20delay.png)
+
+- Task2:  Hierarchy check and error handling script creation
+
+  - Creating Hierarchy Check script
+
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/creating_hierarchy.png)
+
+  - Hierarchy Check
+
+    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/hierarchy%20check.png)
+  
+   - Hierarchy Check PASS
+
+      ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/hierarchy%20Check%20PASS.png)
+     
+    - Hierarchy Check FAIL
+
+      ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/hierarchy%20Check%20fail.png)
+  
