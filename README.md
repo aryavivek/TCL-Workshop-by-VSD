@@ -111,3 +111,10 @@
      ![image]()
 
 - Task2: Script to edit Yosys output netlist
+   - Conversion of synthesized file (synth.v) to a format that Opentimer compatible
+     
+     ![image]()
+     
+   - Snapshot of final.synth.v vs synth.v
+     
+     ![image]()
