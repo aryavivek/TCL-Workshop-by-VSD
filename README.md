@@ -76,6 +76,6 @@
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/day4_task1.png)
 
-  - Generated SDC File with Input Constraints
+  - Generated SDC File with Ouput Constraints
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/output%20delay.png)
