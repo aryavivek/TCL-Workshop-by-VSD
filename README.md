@@ -49,16 +49,18 @@
 ## Day-3
 
 - Task1: creating complete clock constraints
+
   - Code for generating clock constraints
-  - 
-   ![image]()
+    
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/input%20code.png)
 
--Terminal log output
+  - Terminal log output
 
-   ![image]()
--Generated SDC File
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/day3_task1.png)
+  
+  - Generated SDC File
 
-   ![image]()
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/SDC%20file.png)
   
 - Task2: 
 
