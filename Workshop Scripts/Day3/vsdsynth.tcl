@@ -148,6 +148,7 @@ set i  [expr {$clock_start+1}]
 set end_of_ports [expr {$input_ports_start-1}]
 puts "\nInfo-SDC: Working on clock constraints......................."
 while { $i < $end_of_ports } {
+	puts "Working on clock [constraints get cell 0 $i]"
 	puts -nonewline $sdc_file "\ncreate_clock -name [constraints get cell 0 $i] -period [constraints get cell 1 $i] -waveform \{0 [expr {[constraints get cell 1 $i]*[constraints get cell 2 $i]/100}]\} \get_ports [constraints get cell 0 $i]\]"
 
 	puts -nonewline $sdc_file "\nset_clock_latency -source -early -rise [constraints get cell $clock_early_rise_delay_start $i] \get_clocks [constraints get cell 0 $i]\]"
