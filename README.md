@@ -104,17 +104,21 @@
 
    - Synthesis script PASS
 
-     ![image]()
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/Synthesis%20Pass.png)
 
   - Synthesis script FAIL
 
-     ![image]()
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/Synthesis%20FAIL.png)
 
 - Task2: Script to edit Yosys output netlist
    - Conversion of synthesized file (synth.v) to a format that Opentimer compatible
      
-     ![image]()
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/day5_task2.png)
      
    - Screenshot of final.synth.v VS synth.v
      
-     ![image]()
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/final.synth.v%20vs%20.synth.v.png)
+
+  -Task3: set_multi_cpu_usage proc
+
+  
