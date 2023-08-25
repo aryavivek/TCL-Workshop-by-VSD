@@ -110,4 +110,4 @@
 
      ![image]()
 
-- Task2: Synthesis script creation
+- Task2: Script to edit Yosys output netlist
