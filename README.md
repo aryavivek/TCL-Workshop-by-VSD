@@ -70,8 +70,12 @@
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/input_delay.png)
 
+## Day-4
 
+- Task1: Generation of output constraints
 
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/day4_task1.png)
 
+  - Generated SDC File with Input Constraints
 
-
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/output%20delay.png)
