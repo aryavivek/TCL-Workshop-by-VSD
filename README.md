@@ -26,10 +26,22 @@
 
 ## Day-2
 - Task1: Variable Creation
- ![image]()
+- CSV File
+  
+ ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day2/csv%20file.png)
+ 
+ ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day2/task1.png)
+ 
 - Task2: Checking the existence of files and folders mentioned in design_details.csv
- ![image]()
+  
+ ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day2/task2.png)
+ 
 - Task3: Script thrown an error if wrong path was provided
- ![image]()
+  
+ ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day2/task3.png)
+ 
 - Task4: Compute row and column number using complex matrix processing
- ![image]()
+
+ ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day2/task4.png)
+ 
+ ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day2/task4_1.png)
