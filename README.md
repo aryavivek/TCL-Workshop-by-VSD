@@ -97,4 +97,17 @@
     - Hierarchy Check FAIL
 
       ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day4/hierarchy%20Check%20fail.png)
-  
+
+  ## Day-5
+
+- Task1: Synthesis script creation
+
+   - Synthesis script PASS
+
+     ![image]()
+
+  - Synthesis script FAIL
+
+     ![image]()
+
+- Task2: Synthesis script creation
