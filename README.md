@@ -48,7 +48,7 @@
 
 ## Day-3
 
-- Task1: creating complete clock constraints
+- Task1: Creating complete clock constraints
 
   - Code for generating clock constraints
     
@@ -62,9 +62,13 @@
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/SDC%20file.png)
   
-- Task2: 
+- Task2: Generation of input constraints generation and bits/bussed differentiation
 
-   ![image]()
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/day3_task2.png)
+
+  - Generated SDC File with Input Constraints
+
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day3/input_delay.png)
 
 
 
