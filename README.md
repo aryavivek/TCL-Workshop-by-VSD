@@ -121,4 +121,15 @@
 
   -Task3: set_multi_cpu_usage proc
 
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/set_multi_cpu%20proc.png)
+
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/test_tcl.png)
+
+  -Task4:Creation of .conf file
+
+   ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/conf%20file.png)
+  
+    
+
+
   
