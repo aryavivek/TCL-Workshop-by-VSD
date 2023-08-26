@@ -1,9 +1,9 @@
 # TCL-Workshop-by-VSD
-# TCL WORKSHOP: FROM INTRODUCTION TO ADVANCED SCRIPTING by VSD
+# TCL WORKSHOP: FROM INTRODUCTION TO ADVANCED SCRIPTING BY VSD
 
 ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/TCL-Workshop1-2048x1448.jpg?raw=true)
 
-# Workshop content
+# Workshop Content
 - Day 1: Introduction to TCL and VSDSYNTH Toolbox Usage
 - Day 2: Variable Creation and Processing Constraints from CSV
 - Day 3: Processing Clock and Input Constraints
