@@ -139,5 +139,18 @@
  
      ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/timing%20file.png)
 
+ - Task5: Quality of results (QOR) generation
 
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/QOR.png)
+
+# Conclusion
+   - The TCL Workshop is your gateway to mastering the art of TCL scripting and harnessing its potential for VLSI design.
+   - From understanding the fundamental concepts to unleashing advanced automation.
+   - A custom TCL toolbox was developed to input design details. These details were then extracted and processed.
+   - Constraints were adapted for the Yosys tool. Synthesis was performed using Yosys.
+   - The synthesized netlist was adjusted for Opentimer. SDC constraints were modified for Opentimer's model.
+   - STA was conducted, results were extracted and displayed to the user.
   
+# Acknowledgements
+   - My gratitude goes out to the VSD team for organizing this workshop and providing us with the opportunity to enhance our TCL scripting skills.
+   - A special thanks to our workshop instructors for their engaging sessions and patient guidance.
