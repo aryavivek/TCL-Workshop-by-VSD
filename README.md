@@ -133,7 +133,7 @@
      
   - .spef file
     
-     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/spef%20file.png)
+     ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/spef_file.png)
     
   - .timing file
  
