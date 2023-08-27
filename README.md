@@ -119,13 +119,13 @@
      
      ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/final.synth.v%20vs%20.synth.v.png)
 
-  -Task3: set_multi_cpu_usage proc
+  - Task3: set_multi_cpu_usage proc
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/set_multi_cpu%20proc.png)
 
    ![image](https://github.com/aryavivek/TCL-Workshop-by-VSD/blob/main/Workshop%20Scripts/Day5/test_tcl.png)
 
-  -Task4: Creation of .conf file , .spef file and .timing file
+  - Task4: Creation of .conf file , .spef file and .timing file
 
   - .conf file
   
